@@ -11,7 +11,7 @@ macOS 10.13 or higher, Intel or M1.
 
 
 ## Helpful for u?
-BTC > bc1qvcq852yggaxj0pls9u58f9lc9kc6hk0vg8uc49
+BTC > 
 
 ## Credits
 Nikias Bassen & rest of libimobiledevice team
